@@ -4,5 +4,5 @@
 [stats220](https://github.com/industriousChen/stats220)
 **This is txt**
 *read me*
-[index](https://github.com/industriousChen/stats220/index.md)
+[index](https://github.com/industriousChen/stats220/blob/main/index.md)
 ![](my_meme.png)
